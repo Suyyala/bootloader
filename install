@@ -1,0 +1,3 @@
+Ran “fastboot flash aboot emmc_appsboot.mbn” (Yes, “aboot”)
+Rebooted into Bootloader again (“fastboot reboot bootloader”)
+Unlocked the Phone (“fastboot oem unlock-go”)
